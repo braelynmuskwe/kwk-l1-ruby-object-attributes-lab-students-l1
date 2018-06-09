@@ -9,4 +9,4 @@ def tia=(dog_name)
   tia=(dog_name)
   @this_dog_name
 end 
-puts"the dogs name is #{name.dog}"
+puts"the dogs name is tia"
